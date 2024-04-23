@@ -15,4 +15,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 
 
 ## Algorithms/Libraries
-- 
+- Pandas
+- Etc
+
+## Jupyter notebooks
