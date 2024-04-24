@@ -13,16 +13,18 @@ In Singapore, traffic accidents have been on a rise year-on-year. In the first h
 
 ## Attributes Included:
 
-- Accident ID: A unique identifier assigned to each accident for reference and tracking purposes.
-- Date and Time: The date and time when the accident occurred, facilitating temporal analysis and trend identification.
-- Location: The precise geographical coordinates or address where the accident took place, enabling spatial analysis and mapping.
-- Severity: The severity level of the accident, categorized based on the extent of injuries, property damage, or fatalities.
-- Weather Conditions: Information about weather conditions prevailing at the time of the accident, such as clear, rainy, foggy, or snowy weather.
-- Road Conditions: Description of road conditions, including dry, wet, icy, or slippery surfaces.
-- Vehicle Involved: Details about vehicles involved in the accident, including types, models, and counts.
-- Contributing Factors: Factors contributing to the accident, such as speeding, distracted driving, drunk driving, road defects, or mechanical failures.
-- Injuries and Fatalities: Number of individuals injured or killed as a result of the accident.
-- Vehicle Maneuvers: Description of maneuvers or actions taken by vehicles involved, such as turning, braking, or overtaking.
+| Attribute             | Description                                                                                      |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| **Accident ID**       | A unique identifier assigned to each accident for reference and tracking purposes.               |
+| **Date and Time**     | The date and time when the accident occurred, facilitating temporal analysis and trend identification. |
+| **Location**          | The precise geographical coordinates or address where the accident took place, enabling spatial analysis and mapping. |
+| **Severity**          | The severity level of the accident, categorized based on the extent of injuries, property damage, or fatalities. |
+| **Weather Conditions**| Information about weather conditions prevailing at the time of the accident, such as clear, rainy, foggy, or snowy weather. |
+| **Road Conditions**   | Description of road conditions, including dry, wet, icy, or slippery surfaces.                    |
+| **Vehicle Involved**  | Details about vehicles involved in the accident, including types, models, and counts.             |
+| **Contributing Factors** | Factors contributing to the accident, such as speeding, distracted driving, drunk driving, road defects, or mechanical failures. |
+| **Injuries and Fatalities** | Number of individuals injured or killed as a result of the accident.                           |
+| **Vehicle Maneuvers** | Description of maneuvers or actions taken by vehicles involved, such as turning, braking, or overtaking. |
 
 
 ## Algorithms/Libraries used
@@ -70,7 +72,7 @@ These notebooks demostrates the implementation of Classification Tree models for
 - [Logistic_Regression_model_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Logistic_Regression_model_4k.ipynb)
 
 These notebooks demostrates the implementation of Logistic Regression models for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
-
+## Conclusion
 ## Refrences
 Gunay, D. (2023). Random Forest. Medium. https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
 Mannan, A. (2024). Road Accidents CSV and Excel dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv
