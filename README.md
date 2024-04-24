@@ -9,7 +9,7 @@ This project is part of the SC1015 (Introduction to Data Science and Artificial 
 ## Introduction
 In Singapore, traffic accidents have been on a rise year-on-year. In the first half of 2023, the total number of traffic accidents resulting in injuries or fatalities increased by 11.8% to 3,542, from 3,169 in the first half of 2022. The total number of injured persons and fatalities increased by 17.1% to 4,550, from 3,886 in 2022. Even though the dataset is not set in Singapore, we hope to gain some knowledge about the domain.
 
-![Car crash](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.straitstimes.com%2Fsingapore%2F8-taken-to-hospital-after-multi-vehicle-crash-in-tampines&psig=AOvVaw34vcmdOXymS_N_B-06xm_P&ust=1714051112366000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDu-Y742oUDFQAAAAAdAAAAABAE)
+![Car crash](https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/04/22/yutampinesaccidentcoll2204.jpg?VersionId=GGwjA_2XTIbaP76m2Y6Hdoi1ImTQw2dx)
 
 Attributes Included:
 
