@@ -54,14 +54,19 @@ This notebook focuses on the exploratory data analysis phase. It includes code t
 ### Random Forest 
 Produced on of our better results but that doesnt say much as none of our models are up to par. The basics behind random forest are that it uses predictions of several decision trees to improve accuracy and control over-fitting. It is being used as it is flexible to categorical variables and it is efficient at large scale datasets such as ours. 
 
-- [Jupyter Notebook - r_forest.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest.ipynb)
-- [Jupyter Notebook - r_forest2.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest2.ipynb)
-- [Jupyter Notebook - r_forest3.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest3.ipynb)
+- [Jupyter Notebook - random_forest.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/random_forest.ipynb)
+- [Jupyter Notebook - random_forest_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/random_forest_40k.ipynb)
+- [Jupyter Notebook - random_forest_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/random_forest_4k.ipynb)
+
 ### Neural Network
 Neural network functions like a human brain, specifically designed to recognize patterns and solve complex problems in a way that mimics human thinking. Similar to Random Forest, the model was average at best, but we learnt the most from this model then any other model
 
 
 These notebooks demonstrate the implementation of Random Forest models and Neural Network model for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
+
+- [Jupyter Notebook - neural_network.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/neural_network.ipynb)
+- [Jupyter Notebook - neural_network_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/neural_network_40k.ipynb)
+- [Jupyter Notebook - neural_network_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/neural_network_4k.ipynb)
 
 ### Classification Tree
 A classification tree is a type of decision tree used in machine learning for categorizing data into predefined classes. It works by splitting data based on feature values, where each split aims to make the resulting subgroups as pure as possible, meaning each subgroup should ideally contain samples from only one class, either fatal serious or slight. It is good here as it has the Capability to Model Non-linear Relationships and it is easy to interpret. This ended up being our most successful model, however still not good.
