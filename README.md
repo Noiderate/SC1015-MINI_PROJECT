@@ -4,12 +4,11 @@ This project aims to predict the severity of road accidents based on environment
 
 
 ## About
-
 This project is part of the SC1015 (Introduction to Data Science and Artificial Intelligence) course mini-project. We leverage the [Road Accidents CSV and EXCEL dataset](https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv) from Kaggle for building predictive models.
 ## Introduction
-In Singapore, traffic accidents have been on a rise year-on-year. In the first half of 2023, the total number of traffic accidents resulting in injuries or fatalities increased by 11.8% to 3,542, from 3,169 in the first half of 2022. The total number of injured persons and fatalities increased by 17.1% to 4,550, from 3,886 in 2022. Even though the dataset is not set in Singapore, we hope to gain some knowledge about the domain.
-
+Do you know about this crash? This crash happened on the week we were finishing this project
 ![Tampines crash that happened the week we finished this project](https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/04/22/yutampinesaccidentcoll2204.jpg?VersionId=GGwjA_2XTIbaP76m2Y6Hdoi1ImTQw2dx)
+In Singapore, traffic accidents have been on a rise year-on-year. In the first half of 2023, the total number of traffic accidents resulting in injuries or fatalities increased by 11.8% to 3,542, from 3,169 in the first half of 2022. The total number of injured persons and fatalities increased by 17.1% to 4,550, from 3,886 in 2022. Even though the dataset is not set in Singapore, we hope to gain some knowledge about the domain.
 
 ## Attributes Included:
 
