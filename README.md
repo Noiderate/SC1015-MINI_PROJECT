@@ -1,4 +1,4 @@
-# Road Accident Severity Prediction
+# Road Accident Severity Prediction (FCS4_Team 8)
 
 This project aims to predict the severity of road accidents based on environmental conditions using machine learning techniques.
 
@@ -37,8 +37,8 @@ In Singapore, traffic accidents have been on a rise year-on-year. In the first h
 - setuptools
 - needs update=================
 ## Contributers
-- @Caven-Chew - Data Visualization, Data extraction, EDA, Random forest, Neural network
-- @Noiderate - Outcome, Classification Tree, Logistic Regression
+- * [@Caven-Chew](https://github.com/Caven-Chew) - Data Visualization, Data extraction, EDA, Random forest, Neural network
+- * [@Noiderate](https://github.com/Noiderate)(Amudhan) - Outcome, Classification Tree, Logistic Regression
 ## Problem definition
 - Are we able to predict the sevirity of car crashes using various features?
 <!-- (FCS4_Team 8 Folder) -->
