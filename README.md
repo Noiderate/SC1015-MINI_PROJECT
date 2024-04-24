@@ -17,8 +17,8 @@ This project is part of the SC1015 (Introduction to Data Science and Artificial 
 - tensorflow
 - needs update=================
 ## Contributers
--@Caven-Chew
--@Noiderate
+- @Caven-Chew
+- @Noiderate
 ## FCS4_Team 8 Folder
 ### Data Processing and Analysis
 
