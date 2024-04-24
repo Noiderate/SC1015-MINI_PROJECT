@@ -11,7 +11,7 @@ In Singapore, traffic accidents have been on a rise year-on-year. In the first h
 
 ![Tampines crash that happened the week we finished this project](https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/04/22/yutampinesaccidentcoll2204.jpg?VersionId=GGwjA_2XTIbaP76m2Y6Hdoi1ImTQw2dx)
 
-Attributes Included:
+## Attributes Included:
 
 - Accident ID: A unique identifier assigned to each accident for reference and tracking purposes.
 - Date and Time: The date and time when the accident occurred, facilitating temporal analysis and trend identification.
@@ -32,13 +32,14 @@ Attributes Included:
 - matplotlib
 - sklearn
 - tensorflow (Might need to install if you dont already have it)
+- setuptools
 - needs update=================
 ## Contributers
 - @Caven-Chew - Data Visualization, Data extraction, EDA, Random forest, Neural network
 - @Noiderate - Outcome, Classification Tree, Logistic Regression
 ## Problem definition
 - Are we able to predict the sevirity of car crashes using various features?
-[comment]: <> (FCS4_Team 8 Folder)
+<!-- (FCS4_Team 8 Folder) -->
 ## Data Processing and Analysis
 
 #### [Jupyter Notebook - data_extraction.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/data_extraction.ipynb)
