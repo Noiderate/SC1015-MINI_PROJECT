@@ -73,6 +73,17 @@ These notebooks demostrates the implementation of Classification Tree models for
 
 These notebooks demostrates the implementation of Logistic Regression models for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
 ## Conclusion
+- Dataset is difficult to create a model for, all models returned unfavourable results
+- Best model was classification tree but even that only have a accuracy of 46%, which is not much higher than random picking which is 33.33%
+- While we had some big improvements in our ML models, none of the results are good enough to predict the outcome of a car crash
+
+## Lessons learnt
+- Picking a correct dataset is important
+- We learnt about the different types of encoding like label encoding and one hot encoding and how they affect the model performance
+- We understood the important of class balancing
+- And we also gained knowledge about this topic in terms of how important variables are for prediction through coefficients and feature importance 
 ## Refrences
-Gunay, D. (2023). Random Forest. Medium. https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
-Mannan, A. (2024). Road Accidents CSV and Excel dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv
+- Gunay, D. (2023). Random Forest. Medium. https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
+- Mannan, A. (2024). Road Accidents CSV and Excel dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv
+- SlidesGo. (n.d.). Driving Center [PowerPoint slides template]. Retrieved from https://slidesgo.com/theme/driving-center
+- W3Schools. (n.d.). Home page [Website]. Retrieved from https://www.w3schools.com (used for many small simple functions)
