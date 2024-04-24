@@ -34,7 +34,7 @@ In Singapore, traffic accidents have been on a rise year-on-year. In the first h
 - sklearn
 - tensorflow (Might need to install if you dont already have it)
 - setuptools
-- needs update=================
+
 ## Contributers
 - * [@Caven-Chew](https://github.com/Caven-Chew) - Data Visualization, Data extraction, EDA, Random forest, Neural network
 - * [@Noiderate](https://github.com/Noiderate)(Amudhan) - Outcome, Classification Tree, Logistic Regression
@@ -43,10 +43,10 @@ In Singapore, traffic accidents have been on a rise year-on-year. In the first h
 <!-- (FCS4_Team 8 Folder) -->
 ## Data Processing and Analysis
 
-#### [Jupyter Notebook - data_extraction.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/data_extraction.ipynb)
+#### [Jupyter Notebook - data_extraction.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/data_extraction.ipynb)
 This notebook covers data extraction, cleaning, and preprocessing tasks. It demonstrates how we import the raw data, perform necessary data cleaning procedures, and potentially apply resampling techniques to address class imbalances.
 
-#### [Jupyter Notebook - mini_project.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/mini%20project.ipynb)
+#### [Jupyter Notebook - data_visualisation.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/data_visualisation.ipynb)
 This notebook focuses on the exploratory data analysis phase. It includes code to analyze key insights and patterns within our dataset, helping us better understand the distribution and relationships of variables.
 
 ## Machine Learning Models
