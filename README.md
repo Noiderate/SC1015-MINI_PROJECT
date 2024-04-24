@@ -54,30 +54,30 @@ This notebook focuses on the exploratory data analysis phase. It includes code t
 ### Random Forest 
 Produced on of our better results but that doesnt say much as none of our models are up to par. The basics behind random forest are that it uses predictions of several decision trees to improve accuracy and control over-fitting. It is being used as it is flexible to categorical variables and it is efficient at large scale datasets such as ours. 
 
+- [Jupyter Notebook - r_forest.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest.ipynb)
+- [Jupyter Notebook - r_forest2.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest2.ipynb)
+- [Jupyter Notebook - r_forest3.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/r_forest3.ipynb)
 ### Neural Network
 Neural network functions like a human brain, specifically designed to recognize patterns and solve complex problems in a way that mimics human thinking. Similar to Random Forest, the model was average at best, but we learnt the most from this model then any other model
 
-- [Jupyter Notebook - r_forest.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/r_forest.ipynb)
-- [Jupyter Notebook - r_forest2.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/r_forest2.ipynb)
-- [Jupyter Notebook - r_forest3.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/r_forest3.ipynb)
 
 These notebooks demonstrate the implementation of Random Forest models and Neural Network model for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
 
 ### Classification Tree
 A classification tree is a type of decision tree used in machine learning for categorizing data into predefined classes. It works by splitting data based on feature values, where each split aims to make the resulting subgroups as pure as possible, meaning each subgroup should ideally contain samples from only one class, either fatal serious or slight. It is good here as it has the Capability to Model Non-linear Relationships and it is easy to interpret. This ended up being our most successful model, however still not good.
 
-- [Classification_Tree.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Classification_Tree.ipynb)
-- [Classification_Tree_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Classification_Tree_40k.ipynb)
-- [Classification_Tree_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Classification_Tree_4k.ipynb)
+- [Classification_Tree.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Classification_Tree.ipynb)
+- [Classification_Tree_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Classification_Tree_40k.ipynb)
+- [Classification_Tree_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Classification_Tree_4k.ipynb)
 
 These notebooks demostrates the implementation of Classification Tree models for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
 
 ### Logistic Regression
 Logistic regression generally models the probability that an observation belongs to one of two categories based on input features. However, in our case, we have three classes so we will be using Multinomial Logistic Regression which can handle multiple categories. This will automatically be handled by Scikit learn library
 
-- [Logistic_Regression_model.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Logistic_Regression_model.ipynb)
-- [Logistic_Regression_model_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Logistic_Regression_model_40k.ipynb)
-- [Logistic_Regression_model_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/Logistic_Regression_model_4k.ipynb)
+- [Logistic_Regression_model.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Logistic_Regression_model.ipynb)
+- [Logistic_Regression_model_40k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Logistic_Regression_model_40k.ipynb)
+- [Logistic_Regression_model_4k.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/FCS4_TEAM8/Logistic_Regression_model_4k.ipynb)
 
 These notebooks demostrates the implementation of Logistic Regression models for predicting accident severity based on our preprocessed dataset. Each notebook explore using different ration of the dataset with eddort to improve the overall accuracy of the model.
 ## Conclusion
