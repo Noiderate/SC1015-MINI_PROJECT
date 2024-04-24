@@ -6,6 +6,24 @@ This project aims to predict the severity of road accidents based on environment
 ## About
 
 This project is part of the SC1015 (Introduction to Data Science and Artificial Intelligence) course mini-project. We leverage the [Road Accidents CSV and EXCEL dataset](https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv) from Kaggle for building predictive models.
+## Introduction
+In Singapore, traffic accidents have been on a rise year-on-year. In the first half of 2023, the total number of traffic accidents resulting in injuries or fatalities increased by 11.8% to 3,542, from 3,169 in the first half of 2022. The total number of injured persons and fatalities increased by 17.1% to 4,550, from 3,886 in 2022. Even though the dataset is not set in Singapore, we hope to gain some knowledge about the domain.
+
+![Car crash](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.straitstimes.com%2Fsingapore%2F8-taken-to-hospital-after-multi-vehicle-crash-in-tampines&psig=AOvVaw34vcmdOXymS_N_B-06xm_P&ust=1714051112366000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDu-Y742oUDFQAAAAAdAAAAABAE)
+
+Attributes Included:
+
+- Accident ID: A unique identifier assigned to each accident for reference and tracking purposes.
+- Date and Time: The date and time when the accident occurred, facilitating temporal analysis and trend identification.
+- Location: The precise geographical coordinates or address where the accident took place, enabling spatial analysis and mapping.
+- Severity: The severity level of the accident, categorized based on the extent of injuries, property damage, or fatalities.
+- Weather Conditions: Information about weather conditions prevailing at the time of the accident, such as clear, rainy, foggy, or snowy weather.
+- Road Conditions: Description of road conditions, including dry, wet, icy, or slippery surfaces.
+- Vehicle Involved: Details about vehicles involved in the accident, including types, models, and counts.
+- Contributing Factors: Factors contributing to the accident, such as speeding, distracted driving, drunk driving, road defects, or mechanical failures.
+- Injuries and Fatalities: Number of individuals injured or killed as a result of the accident.
+- Vehicle Maneuvers: Description of maneuvers or actions taken by vehicles involved, such as turning, braking, or overtaking.
+
 
 ### Algorithms/Libraries used
 - pandas
@@ -20,7 +38,7 @@ This project is part of the SC1015 (Introduction to Data Science and Artificial 
 - @Noiderate - Outcome, Classification Tree, Logistic Regression
 ## Problem definition
 - Are we able to predict the sevirity of car crashes using various features?
-# FCS4_Team 8 Folder
+[comment]: <> (FCS4_Team 8 Folder)
 ## Data Processing and Analysis
 
 #### [Jupyter Notebook - data_extraction.ipynb](https://github.com/Caven-Chew/SC1015-MINI_PROJECT/blob/main/data_extraction.ipynb)
@@ -54,3 +72,4 @@ These notebooks demostrates the implementation of Logistic Regression models for
 
 ## Refrences
 Gunay, D. (2023). Random Forest. Medium. https://medium.com/@denizgunay/random-forest-af5bde5d7e1e
+Mannan, A. (2024). Road Accidents CSV and Excel dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv
